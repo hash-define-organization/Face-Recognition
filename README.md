@@ -1,18 +1,16 @@
 <h1 align="center">	&#127875;<b><i>It's October, so is Hacktoberfest</i></b>	&#127875; </h1>
 
 <h1 align="center">
-  <a><img src="./resources/circle_cropped.png" alt="define" width="200"></a>
-   <br>
-   #define
-   <br>
+<img src="https://user-images.githubusercontent.com/72879445/193361781-0828d28c-4f81-4d82-93a3-38f2ce76a453.png" alt="define" width="200">
+
 </h1>
 
 <p align="center">  
- <a href="https://discord.gg/tTs553YWyb">
+ <a href="https://discord.gg/7cXb8c9RTj">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
    
-  <a href="https://in.linkedin.com/in/hashdefine?trk=people-guest_people_search-card">
+  <a href="https://www.linkedin.com/company/defineweare/mycompany?trk=people-guest_people_search-card">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   
@@ -35,7 +33,10 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/NxXxwHX/define-logo.jpg" alt="define-logo" border="0"></a>
+  <!-- <img src="https://i.ibb.co/NxXxwHX/define-logo.jpg" alt="define-logo" border="0"></a> -->
+  
+  # Photu banao logo
+
 </p>
 
 
@@ -78,17 +79,13 @@
 ➡️ Submitting someone else work will be reported as 🔴spam.
 
 
-## :popcorn: Technologies in which you can contribute
-
-  <p>
-  <a><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/openmoji/292/man-technologist-medium-light-skin-tone_1f468-1f3fc-200d-1f4bb.png" alt="define" width="80"></a>
-
-
   <!-- <p align="center">
   <a><img src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" alt="define" width="500"></a>
   <br>
   <br> -->
- 
+## 🌟Getting started
+➡️ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) for details about the process for submitting pull requests to us.
+
 ## 📜 Our Standards
 
 :arrow_forward: Using welcoming language.
@@ -102,9 +99,9 @@
 
 ## :label: About #DEFINE :trophy:
 
-:point_right: We at  #define aim to build a platform that will not only encourage you to find which domain interests you but will also help you to &nbsp;&nbsp;&nbsp;&nbsp;come forward and gain expertise in that.
+:point_right: We at  #define aim to build a platform that will not only encourage you to find which domain interests you but will also help you to come forward and gain expertise in that.
 
-:point_right: #define has also started a New Developer Circle in different colleges and college students in term of coding, development any many &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more.
+:point_right: #define has also started a New Developer Circle in different colleges and college students in term of coding, development any many more.
 
  ## 	:game_die: Shoutout to all the contributors ❤️
 
