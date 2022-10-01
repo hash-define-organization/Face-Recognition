@@ -35,7 +35,7 @@
 <p align="center">
   <!-- <img src="https://i.ibb.co/NxXxwHX/define-logo.jpg" alt="define-logo" border="0"></a> -->
   
-  # Photu banao logo
+![image](https://user-images.githubusercontent.com/96205648/193408591-1c9cf31d-b6c8-49ba-9ee4-f9bf832cf686.png)
 
 </p>
 
