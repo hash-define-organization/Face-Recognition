@@ -97,7 +97,7 @@
 :arrow_forward: Heavily focusing on what is best for the community
     
 
-## :label: About #DEFINE :trophy:
+## :label: About Hash Define :trophy:
 
 :point_right: We at  #define aim to build a platform that will not only encourage you to find which domain interests you but will also help you to come forward and gain expertise in that.
 
